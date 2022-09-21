@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with a team - Dev Warriors
-- 🌱 I’m currently learning Python and Next.js
-- 👯 I’m looking to collaborate on JavaScript project
-- 🤔 I’m looking for help with an offer of internship
+- 🔭 I’m currently available to work
+- 🌱 I’m currently learning Python
+- 👯 I’m interested to collaborate on JavaScript project
 - 💬 Ask me about my hobby
-- 📫 How to reach me: mahfuzswaron@mail.com
-- 😄 Pronouns: mahfuz soron
+- 📫 Mail me: mahfuzswaron@gmail.com
+- 😄 Pronouns: mahfuz shoron
