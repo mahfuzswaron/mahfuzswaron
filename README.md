@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzswaron&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzswaron" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web Development**
 
